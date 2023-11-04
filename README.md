@@ -1,2 +1,2 @@
 # Hello---World
-This repo for git tutorial learning only
+This repo for github tutorial only
